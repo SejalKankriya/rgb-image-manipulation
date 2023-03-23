@@ -1,4 +1,4 @@
-# rgb-image-manipulation
+# RGB Image Manipulation
 
 This program allows you to manipulate a given 512x256 RGB image by performing various operations and outputting resultant images. The following operations can be conducted:
 
@@ -11,10 +11,10 @@ Inverting the gray-scale image: The gray-scale image is inverted by subtracting 
 Rotating the gray-scale image: The gray-scale image is rotated by 45 degrees in the clockwise direction and saved as gray_image_rotated.png.
 Additionally, the original RGB image is saved as image.png.
 
-## Technologies Used
+### Technologies Used
 
 This program is implemented using Python and various image processing libraries, including cv2 and NumPy.All the manipulations of the image are manually coded in python.
 
-## Usage
+### Usage
 
 To use this program, download a 512x256 RGB image (the repository already has one) from the internet, save it as "cvip.jpg" and place it in the same directory as the program file. Then, run the program and it will conduct the above operations and output the resultant images.
